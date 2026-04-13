@@ -49,8 +49,6 @@ Anibot is an educational Telegram bot focused on promoting sexual health and pre
 ## Contribution
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have suggestions or improvements.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 - Thank you to all contributors and the community for their involvement in making Anibot a useful resource!  
